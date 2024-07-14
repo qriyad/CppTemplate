@@ -1,8 +1,10 @@
 # Competitive Programming template
 
-reset.sh file is for resetting the main.cpp file to macro.cpp
-run.sh file is for running the main.cpp file
+<p>reset.sh file is for resetting the main.cpp file to macro.cpp</p>
+<br>
+<p>run.sh file is for running the main.cpp file</p>
 
-Run these commands for being able to use the script files.
-    chmod +x run.sh
-    chmod +x reset.sh
+<h1>Run these commands for being able to use the script files:</h1>
+    <p>chmod +x run.sh</p>
+    <br>
+    <p>chmod +x reset.sh</p>
