@@ -19,8 +19,6 @@ using namespace std;
 #define eb              emplace_back
 #define F               first
 #define S               second
-#define rep(i, a, b)    for (int i = a; i <= b; i++)
-#define rev(i, a, b)    for (int i = a; i >= b; i--)    
 #define each(x, v)      for (auto x : v)
 
 const int dx[] = {1, 0, -1, 0};
